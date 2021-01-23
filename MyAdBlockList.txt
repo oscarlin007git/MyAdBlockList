@@ -1,3 +1,7 @@
+!Title: MyAdBlockList
+!Version: 202101223
+!Homepage: https://github.com/oscarlin007git/MyAdBlockList/
+!Total lines: 18
 ||adse.wsa.ximalaya.com^
 ||adse.ximalaya.com^
 ||adsebs.ximalaya.com^
